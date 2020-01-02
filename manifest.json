@@ -1,0 +1,20 @@
+{
+  "short_name": "Soruce Online Games",
+  "name": "Socure Online Games for Shaastra",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "socure.png",
+      "type": "image/png",
+      "sizes": "192x292"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
